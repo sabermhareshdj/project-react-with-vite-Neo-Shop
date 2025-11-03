@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const MyOrders = () => {
+const MyOrders = () => {
   return (
     <div>MyOrders</div>
   )
 }
+
+export default MyOrders
